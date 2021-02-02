@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JaimeZeng</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimezeng&label=Profile%20views&color=0e75b6&style=plastic" alt="jaimezeng" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaimezeng" alt="jaimezeng" /></a> </p>
+<p align="left"> <a href="https://github.com/jaimezeng"><img src="https://github-profile-trophy.vercel.app/?username=jaimezeng&no-frame=true&theme=nord" alt="jaimezeng" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaimezeng&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jaimezeng" /></p>
 
